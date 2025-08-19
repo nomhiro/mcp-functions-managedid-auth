@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__MicrosoftDocs__microsoft_docs_search",
+      "mcp__MicrosoftDocs__microsoft_docs_fetch",
+      "WebFetch(domain:github.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
